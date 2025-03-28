@@ -1,2 +1,9 @@
 # Automated-customer-segmentation-engine-python
-Predicts the next three most preferable loan types, the preferable loan amounts, the right time to pitch the next offer.
+
+-Segments Customers into different clusters using K-Means
+
+-Predicts the top 3 next preferable loans based on historical data
+
+-Recommends an appropriate loan amount for each customer
+
+-Suggests the best time to pitch a loan offer based on past borrowing behavior
